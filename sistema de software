@@ -1,0 +1,58 @@
+Algoritmo programa_De_Venta
+	
+	Escribir "Bienvenido/a a Electronic Security Tapia..."   "Por favor introduzca su informacion"
+	
+	Escribir "introduzca su primer nombre"
+	Leer nombre 
+	
+	Escribir "introduzca su primer apellido"
+	Leer apellido
+	
+	Escribir "introduzca su cedula de idenidad"
+	Leer cedula 
+	escribir "cedula procesada"
+	
+	escribir "fecha de hoy"
+	leer fecha
+	
+		escribir "cual servicio desea adquirir"
+		escribir "1) seguridad fisíca $30.000   2) seguridad electrónica $40.000"
+		leer op1
+		escribir "presione 1 si desea adquirir este servicio o presione 2 si no desea adquirir este servicio "
+		leer op1
+		
+		escribir "nombre y apellido:", nombre " ",apellido
+		escribir "cedula de identidad:", cedula
+		escribir "fecha:", fecha
+		escribir "servicio adquirido:", op1	
+		
+		
+		
+		
+		Escribir "Bienvenido/a a Electronic Security Tapia..."   "Por favor introduzca su informacion"
+		
+		Escribir "introduzca su primer nombre"
+		Leer nombre 
+		
+		Escribir "introduzca su primer apellido"
+		Leer apellido
+		
+		Escribir "introduzca su cedula de idenidad"
+		Leer cedula 
+		escribir "cedula procesada"
+		
+		escribir "fecha de hoy"
+		leer fecha
+		
+		escribir "cual servicio desea adquirir"
+		escribir "1) seguridad fisíca $30.000   2) seguridad electrónica $40.000"
+		leer op1
+		escribir "presione si desea adquirir este servicio o presione NO si no desea adquirir este servicio "
+		leer op1
+		
+		escribir "nombre y apellido:", nombre " ",apellido
+		escribir "cedula de identidad:", cedula
+		escribir "fecha:", fecha
+		escribir "servicio adquirido:",op1
+		
+FinAlgoritmo 
