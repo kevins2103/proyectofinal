@@ -55,4 +55,5 @@ Algoritmo programa_De_Venta
 		escribir "fecha:", fecha
 		escribir "servicio adquirido:",op1
 		
+		escribir "kevin eduardo tapia encarnacion 21-EIEN-1-029"
 FinAlgoritmo 
